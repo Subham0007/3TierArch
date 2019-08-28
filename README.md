@@ -16,4 +16,4 @@ the framework is 4.0
 to open this project in visual studio...you have to open the three-tier\Project\3Tier\3Tier.sln file
 In some cases only BL and DAL will load...so in that case change the website path accordingly(from the error path).
 
-And in the connection strig(DAL/Class1) please insert your DB name and password etc to run this project.
+And in the connection string(DAL/Class1) please insert your DB name and password etc to run this project.
