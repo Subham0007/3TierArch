@@ -1,7 +1,7 @@
 # 3TierArch
 This is a 3 tier architecture  demo for .net frame work.
 
-I created this demo arch. in visual studio 2012.
+I created this demo arch. in visual studio 2010.
 the framework is 4.0
 
 1.1st I created an empty website in visual studio.
