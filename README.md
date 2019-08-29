@@ -8,7 +8,7 @@ the framework is 4.0
 
 2. then in that web site I created a web form according to my requirement.
 
-3. after that I created 2 partial classes named BL and DAL.
+3. after that I created 2 class list named BL and DAL.
 
 4. I added DAL reference to BL and then BL reference to My website.
 
